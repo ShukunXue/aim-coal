@@ -1,0 +1,5 @@
+# RealSense 采集和体积测量依赖。
+pyrealsense2>=2.56.5,<3
+numpy>=1.24,<3
+opencv-python>=4.8,<5
+Pillow>=10,<12

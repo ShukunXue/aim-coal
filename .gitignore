@@ -1,0 +1,16 @@
+/.build/
+/.idea/
+/.venv/
+/.vscode/
+/X-anglabling/
+/dataset/
+/logs/
+/models/
+/release/
+/runs/
+/.codex-temp/
+/tech-document.md
+/tools/package_core_handover.py
+__pycache__/
+*.py[cod]
+.pytest_cache/
